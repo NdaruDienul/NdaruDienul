@@ -1,0 +1,1302 @@
+.mediaViewInfo {
+	--web-view-name: Ndaru Dienul YS;
+	--web-view-id: Ndaru_Dienul_YS;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Ndaru_Dienul_YS;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Ndaru_Dienul_YS {
+	position: absolute;
+	width: 1366px;
+	height: 2495px;
+	background-color: rgba(253,253,253,1);
+	overflow: hidden;
+	--web-view-name: Ndaru Dienul YS;
+	--web-view-id: Ndaru_Dienul_YS;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1 {
+	fill: rgba(14,20,67,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_4 {
+	fill: rgba(14,20,67,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 1051px;
+	left: 0px;
+	top: 96px;
+}
+#ppek {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	left: 0px;
+	top: 99px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	opacity: 0.67;
+	fill: rgba(14,20,67,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 848px;
+	left: 0px;
+	top: 0px;
+}
+#WhatsApp_Image_2021-03-03_at_1 {
+	position: absolute;
+	width: 644px;
+	height: 860px;
+	left: 371px;
+	top: -65px;
+	overflow: visible;
+}
+#Ndaru_Dienul_Yoga_Sworo {
+	left: 414px;
+	top: 532px;
+	position: absolute;
+	overflow: visible;
+	width: 539px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(253,253,253,1);
+}
+#Mahasiswa__Front_End_Web_Devel {
+	opacity: 0.78;
+	left: 466px;
+	top: 602px;
+	position: absolute;
+	overflow: visible;
+	width: 436px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(191,191,191,1);
+}
+#Rectangle_2 {
+	fill: rgba(14,20,67,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 1719px;
+	left: 0px;
+	top: 776px;
+}
+#Group_1 {
+	position: absolute;
+	width: 1047px;
+	height: 193px;
+	left: 148px;
+	top: 846px;
+	overflow: visible;
+}
+#About_Me {
+	left: 447px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(151,150,150,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 121px;
+	height: 1px;
+	left: 474.5px;
+	top: 64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Nama_saya_adalah_Ndaru_19_tahu {
+	opacity: 0.78;
+	left: 0px;
+	top: 107px;
+	position: absolute;
+	overflow: visible;
+	width: 1048px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 574px;
+	height: 64px;
+	left: 396px;
+	top: 1265px;
+	overflow: visible;
+}
+#Education_and_Work_Experience {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Line_1_v {
+	fill: transparent;
+	stroke: rgba(151,150,150,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_v {
+	overflow: visible;
+	position: absolute;
+	width: 121px;
+	height: 1px;
+	left: 226.5px;
+	top: 64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_19 {
+	position: absolute;
+	width: 121px;
+	height: 64px;
+	left: 662px;
+	top: 1916px;
+	overflow: visible;
+}
+#Skills {
+	left: 13.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Line_1_y {
+	fill: transparent;
+	stroke: rgba(151,150,150,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_y {
+	overflow: visible;
+	position: absolute;
+	width: 121px;
+	height: 1px;
+	left: 0px;
+	top: 64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#png-transparent-computer-icons {
+	opacity: 0.77;
+	position: absolute;
+	width: 35.944px;
+	height: 64.594px;
+	left: 1151px;
+	top: 1082.406px;
+	overflow: visible;
+}
+#png-transparent-computer-icons_ {
+	opacity: 0.77;
+	position: absolute;
+	width: 35.944px;
+	height: 64.594px;
+	left: 1151px;
+	top: 1714px;
+	overflow: visible;
+}
+#Group_8 {
+	position: absolute;
+	width: 279px;
+	height: 43px;
+	left: 366px;
+	top: 1458px;
+	overflow: visible;
+}
+#ID2007_-_2013 {
+	opacity: 0.78;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#ID2013_-_2016 {
+	opacity: 0.78;
+	left: 183px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#SDN_Gunung_Putri_1 {
+	opacity: 0.78;
+	left: 0px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Group_14 {
+	position: absolute;
+	width: 206px;
+	height: 57px;
+	left: 366px;
+	top: 1636px;
+	overflow: visible;
+}
+#ID2017_-_2018 {
+	opacity: 0.78;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Internship_At_PERUM_PERURI__Pe {
+	opacity: 0.78;
+	left: 0px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Group_9 {
+	position: absolute;
+	width: 112px;
+	height: 14px;
+	left: 549px;
+	top: 1487px;
+	overflow: visible;
+}
+#SMP_Smart_Cibinong {
+	opacity: 0.78;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Group_10 {
+	position: absolute;
+	width: 119px;
+	height: 43px;
+	left: 742px;
+	top: 1457px;
+	overflow: visible;
+}
+#ID2016-2019 {
+	opacity: 0.78;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#SMKN_1_Gunung_Putri {
+	opacity: 0.78;
+	left: 0px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Group_11 {
+	position: absolute;
+	width: 682px;
+	height: 257px;
+	left: 366px;
+	top: 1457px;
+	overflow: visible;
+}
+#ID2019-Now {
+	opacity: 0.78;
+	left: 556px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Universitas_Gunadarma {
+	opacity: 0.78;
+	left: 556px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Teknik_Informatika {
+	opacity: 0.78;
+	left: 556px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(138,137,137,1);
+}
+#Teknik_Elektronika_Industri {
+	opacity: 0.78;
+	left: 376px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(138,137,137,1);
+}
+#Pemeliharaan_AC {
+	opacity: 0.78;
+	left: 0px;
+	top: 248px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(138,137,137,1);
+}
+#EduWork {
+	opacity: 0.75;
+	left: 1191px;
+	top: 1107.703px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(152,147,147,1);
+}
+#Skills_bk {
+	opacity: 0.75;
+	left: 1191px;
+	top: 1739.297px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(152,147,147,1);
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 561px;
+	height: 3px;
+	left: 404px;
+	top: 1410px;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 3px;
+	left: 383px;
+	top: 1585px;
+}
+#Group_3 {
+	position: absolute;
+	width: 76px;
+	height: 74px;
+	left: 366px;
+	top: 1374px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2 {
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 60px;
+	left: 7px;
+	top: 7px;
+}
+#Group_13 {
+	position: absolute;
+	width: 76px;
+	height: 74px;
+	left: 366px;
+	top: 1546px;
+	overflow: visible;
+}
+#Ellipse_1_br {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_1_br {
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_bs {
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_2_bs {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 60px;
+	left: 7px;
+	top: 7px;
+}
+#Group_4 {
+	position: absolute;
+	width: 76px;
+	height: 74px;
+	left: 549px;
+	top: 1376px;
+	overflow: visible;
+}
+#Ellipse_1_bu {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_1_bu {
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_bv {
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_2_bv {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 60px;
+	left: 7px;
+	top: 7px;
+}
+#Group_5 {
+	position: absolute;
+	width: 76px;
+	height: 74px;
+	left: 739px;
+	top: 1373px;
+	overflow: visible;
+}
+#Ellipse_1_bx {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_1_bx {
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_by {
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_2_by {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 60px;
+	left: 7px;
+	top: 7px;
+}
+#Group_6 {
+	position: absolute;
+	width: 76px;
+	height: 74px;
+	left: 922px;
+	top: 1373px;
+	overflow: visible;
+}
+#Ellipse_1_b {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_1_b {
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_b {
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_2_b {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 60px;
+	left: 7px;
+	top: 7px;
+}
+#Group_15 {
+	position: absolute;
+	width: 262px;
+	height: 51px;
+	left: 583px;
+	top: 2030px;
+	overflow: visible;
+}
+#Polygon_1 {
+	fill: rgba(110,124,251,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 44px;
+	height: 40px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,157,2008) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2 {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Polygon_2 {
+	overflow: visible;
+	position: absolute;
+	width: 58px;
+	height: 51px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,150,2005) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Adobe_XD {
+	opacity: 0.78;
+	left: 81px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_3 {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 197px;
+	top: 21px;
+}
+#Ellipse_4 {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 211px;
+	top: 21px;
+}
+#Ellipse_5 {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 225px;
+	top: 21px;
+}
+#Ellipse_6 {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 239px;
+	top: 21px;
+}
+#Ellipse_7 {
+	fill: rgba(109,108,106,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 253px;
+	top: 21px;
+}
+#Group_16 {
+	position: absolute;
+	width: 262px;
+	height: 51px;
+	left: 583px;
+	top: 2131px;
+	overflow: visible;
+}
+#Polygon_1_cc {
+	fill: rgba(110,124,251,1);
+}
+.Polygon_1_cc {
+	overflow: visible;
+	position: absolute;
+	width: 44px;
+	height: 40px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,157,2008) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2_cd {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Polygon_2_cd {
+	overflow: visible;
+	position: absolute;
+	width: 58px;
+	height: 51px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,150,2005) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#HTML {
+	opacity: 0.78;
+	left: 81px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_3_cf {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_cf {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 197px;
+	top: 21px;
+}
+#Ellipse_4_cg {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_cg {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 211px;
+	top: 21px;
+}
+#Ellipse_5_ch {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5_ch {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 225px;
+	top: 21px;
+}
+#Ellipse_6_ci {
+	fill: rgba(109,108,106,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6_ci {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 239px;
+	top: 21px;
+}
+#Ellipse_7_cj {
+	fill: rgba(109,108,106,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7_cj {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 253px;
+	top: 21px;
+}
+#Group_17 {
+	position: absolute;
+	width: 262px;
+	height: 51px;
+	left: 583px;
+	top: 2232px;
+	overflow: visible;
+}
+#Polygon_1_cl {
+	fill: rgba(110,124,251,1);
+}
+.Polygon_1_cl {
+	overflow: visible;
+	position: absolute;
+	width: 44px;
+	height: 40px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,157,2008) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2_cm {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Polygon_2_cm {
+	overflow: visible;
+	position: absolute;
+	width: 58px;
+	height: 51px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,150,2005) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Photoshop {
+	opacity: 0.78;
+	left: 81px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_3_co {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_co {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 197px;
+	top: 21px;
+}
+#Ellipse_4_cp {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_cp {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 211px;
+	top: 21px;
+}
+#Ellipse_5_cq {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5_cq {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 225px;
+	top: 21px;
+}
+#Ellipse_6_cr {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6_cr {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 239px;
+	top: 21px;
+}
+#Ellipse_7_cs {
+	fill: rgba(109,108,106,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7_cs {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 253px;
+	top: 21px;
+}
+#Group_18 {
+	position: absolute;
+	width: 262px;
+	height: 51px;
+	left: 583px;
+	top: 2333px;
+	overflow: visible;
+}
+#Polygon_1_cu {
+	fill: rgba(110,124,251,1);
+}
+.Polygon_1_cu {
+	overflow: visible;
+	position: absolute;
+	width: 44px;
+	height: 40px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,157,2008) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2_cv {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Polygon_2_cv {
+	overflow: visible;
+	position: absolute;
+	width: 58px;
+	height: 51px;
+	transform: translate(-150px, -2005px) matrix(1,0,0,1,150,2005) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Java {
+	opacity: 0.78;
+	left: 81px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_3_cx {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_cx {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 197px;
+	top: 21px;
+}
+#Ellipse_4_cy {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_cy {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 211px;
+	top: 21px;
+}
+#Ellipse_5_cz {
+	fill: rgba(255,213,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5_cz {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 225px;
+	top: 21px;
+}
+#Ellipse_6_c {
+	fill: rgba(109,108,106,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6_c {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 239px;
+	top: 21px;
+}
+#Ellipse_7_c {
+	fill: rgba(109,108,106,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7_c {
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	height: 9px;
+	left: 253px;
+	top: 21px;
+}
+#Component_2__1 {
+	position: absolute;
+	width: 86px;
+	height: 49px;
+	left: 1141px;
+	top: 26px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Light.html;
+	cursor: pointer;
+}
+#Rectangle_7 {
+	fill: rgba(44,68,110,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_8 {
+	fill: rgba(255,179,0,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 39px;
+	left: 4px;
+	top: 5px;
+}
