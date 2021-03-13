@@ -16,7 +16,7 @@
 #Ndaru_Dienul_YS {
 	position: absolute;
 	width: 1366px;
-	height: 2495px;
+	height: 3419px;
 	background-color: rgba(253,253,253,1);
 	overflow: hidden;
 	--web-view-name: Ndaru Dienul YS;
@@ -120,7 +120,7 @@
 	position: absolute;
 	overflow: visible;
 	width: 1366px;
-	height: 1719px;
+	height: 2643px;
 	left: 0px;
 	top: 776px;
 }
@@ -128,8 +128,8 @@
 	position: absolute;
 	width: 1047px;
 	height: 193px;
-	left: 148px;
-	top: 846px;
+	left: 160px;
+	top: 848px;
 	overflow: visible;
 }
 #About_Me {
@@ -179,20 +179,20 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Group_2 {
+#Group_21 {
 	position: absolute;
-	width: 574px;
-	height: 64px;
-	left: 396px;
-	top: 1265px;
+	width: 1057px;
+	height: 591px;
+	left: 158px;
+	top: 1155px;
 	overflow: visible;
 }
-#Education_and_Work_Experience {
-	left: 0px;
+#What_is_Front_End_Web_Develope {
+	left: 212px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 575px;
+	width: 626px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: League Spartan;
@@ -215,6 +215,69 @@
 	position: absolute;
 	width: 121px;
 	height: 1px;
+	left: 476.5px;
+	top: 56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#______________________________ {
+	opacity: 0.78;
+	left: 2px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 1056px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#aboutme {
+	position: absolute;
+	width: 241px;
+	height: 226px;
+	left: 0px;
+	top: 64px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 574px;
+	height: 64px;
+	left: 377px;
+	top: 1973px;
+	overflow: visible;
+}
+#Education_and_Work_Experience {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Line_1_ {
+	fill: transparent;
+	stroke: rgba(151,150,150,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_ {
+	overflow: visible;
+	position: absolute;
+	width: 121px;
+	height: 1px;
 	left: 226.5px;
 	top: 64px;
 	transform: matrix(1,0,0,1,0,0);
@@ -223,8 +286,8 @@
 	position: absolute;
 	width: 121px;
 	height: 64px;
-	left: 662px;
-	top: 1916px;
+	left: 625px;
+	top: 2628px;
 	overflow: visible;
 }
 #Skills {
@@ -241,7 +304,7 @@
 	font-size: 35px;
 	color: rgba(255,255,255,1);
 }
-#Line_1_y {
+#Line_1_ba {
 	fill: transparent;
 	stroke: rgba(151,150,150,1);
 	stroke-width: 1px;
@@ -250,7 +313,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_y {
+.Line_1_ba {
 	overflow: visible;
 	position: absolute;
 	width: 121px;
@@ -264,8 +327,8 @@
 	position: absolute;
 	width: 35.944px;
 	height: 64.594px;
-	left: 1151px;
-	top: 1082.406px;
+	left: 1125px;
+	top: 1819.406px;
 	overflow: visible;
 }
 #png-transparent-computer-icons_ {
@@ -273,16 +336,16 @@
 	position: absolute;
 	width: 35.944px;
 	height: 64.594px;
-	left: 1151px;
-	top: 1714px;
+	left: 1125.056px;
+	top: 2426px;
 	overflow: visible;
 }
 #Group_8 {
 	position: absolute;
 	width: 279px;
 	height: 43px;
-	left: 366px;
-	top: 1458px;
+	left: 329px;
+	top: 2170px;
 	overflow: visible;
 }
 #ID2007_-_2013 {
@@ -334,8 +397,8 @@
 	position: absolute;
 	width: 206px;
 	height: 57px;
-	left: 366px;
-	top: 1636px;
+	left: 329px;
+	top: 2348px;
 	overflow: visible;
 }
 #ID2017_-_2018 {
@@ -372,8 +435,8 @@
 	position: absolute;
 	width: 112px;
 	height: 14px;
-	left: 549px;
-	top: 1487px;
+	left: 512px;
+	top: 2199px;
 	overflow: visible;
 }
 #SMP_Smart_Cibinong {
@@ -395,8 +458,8 @@
 	position: absolute;
 	width: 119px;
 	height: 43px;
-	left: 742px;
-	top: 1457px;
+	left: 705px;
+	top: 2169px;
 	overflow: visible;
 }
 #ID2016-2019 {
@@ -433,8 +496,8 @@
 	position: absolute;
 	width: 682px;
 	height: 257px;
-	left: 366px;
-	top: 1457px;
+	left: 329px;
+	top: 2169px;
 	overflow: visible;
 }
 #ID2019-Now {
@@ -514,8 +577,8 @@
 }
 #EduWork {
 	opacity: 0.75;
-	left: 1191px;
-	top: 1107.703px;
+	left: 1165px;
+	top: 1844.703px;
 	position: absolute;
 	overflow: visible;
 	width: 53px;
@@ -527,10 +590,10 @@
 	font-size: 12px;
 	color: rgba(152,147,147,1);
 }
-#Skills_bk {
+#Skills_bp {
 	opacity: 0.75;
-	left: 1191px;
-	top: 1739.297px;
+	left: 1164px;
+	top: 2451.297px;
 	position: absolute;
 	overflow: visible;
 	width: 29px;
@@ -550,8 +613,8 @@
 	overflow: visible;
 	width: 561px;
 	height: 3px;
-	left: 404px;
-	top: 1410px;
+	left: 367px;
+	top: 2122px;
 }
 #Rectangle_6 {
 	fill: rgba(255,255,255,1);
@@ -561,15 +624,15 @@
 	overflow: visible;
 	width: 108px;
 	height: 3px;
-	left: 383px;
-	top: 1585px;
+	left: 346px;
+	top: 2297px;
 }
 #Group_3 {
 	position: absolute;
 	width: 76px;
 	height: 74px;
-	left: 366px;
-	top: 1374px;
+	left: 329px;
+	top: 2086px;
 	overflow: visible;
 }
 #Ellipse_1 {
@@ -599,15 +662,15 @@
 	position: absolute;
 	width: 76px;
 	height: 74px;
-	left: 366px;
-	top: 1546px;
+	left: 329px;
+	top: 2258px;
 	overflow: visible;
 }
-#Ellipse_1_br {
+#Ellipse_1_bw {
 	opacity: 0.5;
 	fill: rgba(110,124,251,1);
 }
-.Ellipse_1_br {
+.Ellipse_1_bw {
 	position: absolute;
 	overflow: visible;
 	width: 76px;
@@ -615,10 +678,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Ellipse_2_bs {
+#Ellipse_2_bx {
 	fill: rgba(110,124,251,1);
 }
-.Ellipse_2_bs {
+.Ellipse_2_bx {
 	position: absolute;
 	overflow: visible;
 	width: 63px;
@@ -630,77 +693,15 @@
 	position: absolute;
 	width: 76px;
 	height: 74px;
-	left: 549px;
-	top: 1376px;
+	left: 512px;
+	top: 2088px;
 	overflow: visible;
 }
-#Ellipse_1_bu {
+#Ellipse_1_bz {
 	opacity: 0.5;
 	fill: rgba(110,124,251,1);
 }
-.Ellipse_1_bu {
-	position: absolute;
-	overflow: visible;
-	width: 76px;
-	height: 74px;
-	left: 0px;
-	top: 0px;
-}
-#Ellipse_2_bv {
-	fill: rgba(110,124,251,1);
-}
-.Ellipse_2_bv {
-	position: absolute;
-	overflow: visible;
-	width: 63px;
-	height: 60px;
-	left: 7px;
-	top: 7px;
-}
-#Group_5 {
-	position: absolute;
-	width: 76px;
-	height: 74px;
-	left: 739px;
-	top: 1373px;
-	overflow: visible;
-}
-#Ellipse_1_bx {
-	opacity: 0.5;
-	fill: rgba(110,124,251,1);
-}
-.Ellipse_1_bx {
-	position: absolute;
-	overflow: visible;
-	width: 76px;
-	height: 74px;
-	left: 0px;
-	top: 0px;
-}
-#Ellipse_2_by {
-	fill: rgba(110,124,251,1);
-}
-.Ellipse_2_by {
-	position: absolute;
-	overflow: visible;
-	width: 63px;
-	height: 60px;
-	left: 7px;
-	top: 7px;
-}
-#Group_6 {
-	position: absolute;
-	width: 76px;
-	height: 74px;
-	left: 922px;
-	top: 1373px;
-	overflow: visible;
-}
-#Ellipse_1_b {
-	opacity: 0.5;
-	fill: rgba(110,124,251,1);
-}
-.Ellipse_1_b {
+.Ellipse_1_bz {
 	position: absolute;
 	overflow: visible;
 	width: 76px;
@@ -719,12 +720,74 @@
 	left: 7px;
 	top: 7px;
 }
+#Group_5 {
+	position: absolute;
+	width: 76px;
+	height: 74px;
+	left: 702px;
+	top: 2085px;
+	overflow: visible;
+}
+#Ellipse_1_b {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_1_b {
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_ca {
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_2_ca {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 60px;
+	left: 7px;
+	top: 7px;
+}
+#Group_6 {
+	position: absolute;
+	width: 76px;
+	height: 74px;
+	left: 885px;
+	top: 2085px;
+	overflow: visible;
+}
+#Ellipse_1_ca {
+	opacity: 0.5;
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_1_ca {
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_cb {
+	fill: rgba(110,124,251,1);
+}
+.Ellipse_2_cb {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 60px;
+	left: 7px;
+	top: 7px;
+}
 #Group_15 {
 	position: absolute;
 	width: 262px;
 	height: 51px;
-	left: 583px;
-	top: 2030px;
+	left: 323px;
+	top: 2733px;
 	overflow: visible;
 }
 #Polygon_1 {
@@ -858,14 +921,14 @@
 	position: absolute;
 	width: 262px;
 	height: 51px;
-	left: 583px;
-	top: 2131px;
+	left: 323px;
+	top: 2834px;
 	overflow: visible;
 }
-#Polygon_1_cc {
+#Polygon_1_ch {
 	fill: rgba(110,124,251,1);
 }
-.Polygon_1_cc {
+.Polygon_1_ch {
 	overflow: visible;
 	position: absolute;
 	width: 44px;
@@ -875,11 +938,11 @@
 	left: 0px;
 	top: 0px;
 }
-#Polygon_2_cd {
+#Polygon_2_ci {
 	opacity: 0.5;
 	fill: rgba(110,124,251,1);
 }
-.Polygon_2_cd {
+.Polygon_2_ci {
 	overflow: visible;
 	position: absolute;
 	width: 58px;
@@ -904,7 +967,7 @@
 	font-size: 18px;
 	color: rgba(255,255,255,1);
 }
-#Ellipse_3_cf {
+#Ellipse_3_ck {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -913,7 +976,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_3_cf {
+.Ellipse_3_ck {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -921,7 +984,7 @@
 	left: 197px;
 	top: 21px;
 }
-#Ellipse_4_cg {
+#Ellipse_4_cl {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -930,7 +993,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_4_cg {
+.Ellipse_4_cl {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -938,7 +1001,7 @@
 	left: 211px;
 	top: 21px;
 }
-#Ellipse_5_ch {
+#Ellipse_5_cm {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -947,7 +1010,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_5_ch {
+.Ellipse_5_cm {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -955,7 +1018,7 @@
 	left: 225px;
 	top: 21px;
 }
-#Ellipse_6_ci {
+#Ellipse_6_cn {
 	fill: rgba(109,108,106,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -964,7 +1027,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_6_ci {
+.Ellipse_6_cn {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -972,7 +1035,7 @@
 	left: 239px;
 	top: 21px;
 }
-#Ellipse_7_cj {
+#Ellipse_7_co {
 	fill: rgba(109,108,106,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -981,7 +1044,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_7_cj {
+.Ellipse_7_co {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -993,14 +1056,14 @@
 	position: absolute;
 	width: 262px;
 	height: 51px;
-	left: 583px;
-	top: 2232px;
+	left: 323px;
+	top: 2935px;
 	overflow: visible;
 }
-#Polygon_1_cl {
+#Polygon_1_cq {
 	fill: rgba(110,124,251,1);
 }
-.Polygon_1_cl {
+.Polygon_1_cq {
 	overflow: visible;
 	position: absolute;
 	width: 44px;
@@ -1010,11 +1073,11 @@
 	left: 0px;
 	top: 0px;
 }
-#Polygon_2_cm {
+#Polygon_2_cr {
 	opacity: 0.5;
 	fill: rgba(110,124,251,1);
 }
-.Polygon_2_cm {
+.Polygon_2_cr {
 	overflow: visible;
 	position: absolute;
 	width: 58px;
@@ -1039,7 +1102,7 @@
 	font-size: 18px;
 	color: rgba(255,255,255,1);
 }
-#Ellipse_3_co {
+#Ellipse_3_ct {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1048,7 +1111,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_3_co {
+.Ellipse_3_ct {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -1056,7 +1119,7 @@
 	left: 197px;
 	top: 21px;
 }
-#Ellipse_4_cp {
+#Ellipse_4_cu {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1065,7 +1128,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_4_cp {
+.Ellipse_4_cu {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -1073,7 +1136,7 @@
 	left: 211px;
 	top: 21px;
 }
-#Ellipse_5_cq {
+#Ellipse_5_cv {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1082,7 +1145,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_5_cq {
+.Ellipse_5_cv {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -1090,7 +1153,7 @@
 	left: 225px;
 	top: 21px;
 }
-#Ellipse_6_cr {
+#Ellipse_6_cw {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1099,7 +1162,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_6_cr {
+.Ellipse_6_cw {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -1107,7 +1170,7 @@
 	left: 239px;
 	top: 21px;
 }
-#Ellipse_7_cs {
+#Ellipse_7_cx {
 	fill: rgba(109,108,106,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1116,7 +1179,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_7_cs {
+.Ellipse_7_cx {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -1128,14 +1191,14 @@
 	position: absolute;
 	width: 262px;
 	height: 51px;
-	left: 583px;
-	top: 2333px;
+	left: 323px;
+	top: 3036px;
 	overflow: visible;
 }
-#Polygon_1_cu {
+#Polygon_1_cz {
 	fill: rgba(110,124,251,1);
 }
-.Polygon_1_cu {
+.Polygon_1_cz {
 	overflow: visible;
 	position: absolute;
 	width: 44px;
@@ -1145,11 +1208,11 @@
 	left: 0px;
 	top: 0px;
 }
-#Polygon_2_cv {
+#Polygon_2_c {
 	opacity: 0.5;
 	fill: rgba(110,124,251,1);
 }
-.Polygon_2_cv {
+.Polygon_2_c {
 	overflow: visible;
 	position: absolute;
 	width: 58px;
@@ -1174,7 +1237,7 @@
 	font-size: 18px;
 	color: rgba(255,255,255,1);
 }
-#Ellipse_3_cx {
+#Ellipse_3_c {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1183,7 +1246,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_3_cx {
+.Ellipse_3_c {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -1191,7 +1254,7 @@
 	left: 197px;
 	top: 21px;
 }
-#Ellipse_4_cy {
+#Ellipse_4_c {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1200,7 +1263,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_4_cy {
+.Ellipse_4_c {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
@@ -1208,7 +1271,7 @@
 	left: 211px;
 	top: 21px;
 }
-#Ellipse_5_cz {
+#Ellipse_5_c {
 	fill: rgba(255,213,0,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1217,7 +1280,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_5_cz {
+.Ellipse_5_c {
 	position: absolute;
 	overflow: visible;
 	width: 9px;
