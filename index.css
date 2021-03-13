@@ -181,14 +181,23 @@
 }
 #Group_21 {
 	position: absolute;
-	width: 1057px;
-	height: 591px;
-	left: 158px;
+	width: 1051px;
+	height: 555px;
+	left: 139px;
 	top: 1155px;
 	overflow: visible;
 }
+#aboutme {
+	opacity: 0.42;
+	position: absolute;
+	width: 442px;
+	height: 416px;
+	left: 0px;
+	top: 44px;
+	overflow: visible;
+}
 #What_is_Front_End_Web_Develope {
-	left: 212px;
+	left: 231px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
@@ -201,7 +210,7 @@
 	font-size: 35px;
 	color: rgba(255,255,255,1);
 }
-#Line_1_v {
+#Line_1_w {
 	fill: transparent;
 	stroke: rgba(151,150,150,1);
 	stroke-width: 1px;
@@ -210,37 +219,29 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_v {
+.Line_1_w {
 	overflow: visible;
 	position: absolute;
 	width: 121px;
 	height: 1px;
-	left: 476.5px;
+	left: 495.5px;
 	top: 56px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#______________________________ {
+#Web_developer_adalah_seorang_p {
 	opacity: 0.78;
-	left: 2px;
-	top: 99px;
+	left: 38px;
+	top: 108px;
 	position: absolute;
 	overflow: visible;
-	width: 1056px;
+	width: 1014px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 24px;
 	color: rgba(255,255,255,1);
-}
-#aboutme {
-	position: absolute;
-	width: 241px;
-	height: 226px;
-	left: 0px;
-	top: 64px;
-	overflow: visible;
 }
 #Group_2 {
 	position: absolute;
